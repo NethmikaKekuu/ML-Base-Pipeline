@@ -1,7 +1,7 @@
 numpy
 pandas
 scikit-learn
-inbalanced-learn
+imbalanced-learn
 matplotlib
 seaborn
 plotly
@@ -11,4 +11,3 @@ python-dotenv
 pandas-profiling
 statsmodels
 ipython
-seaborn
